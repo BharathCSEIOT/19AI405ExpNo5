@@ -80,11 +80,12 @@ def SimpleHillClimbing():
 #print(evaluate(solution,answer))
 SimpleHillClimbing()
 ```
+# OUTPUT
 
 <table>
 <tr>
 <td valign=top>
-
+ 
 ### Input String:
 Artificial Intelligence
 </td> 
