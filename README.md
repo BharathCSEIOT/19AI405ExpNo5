@@ -79,9 +79,17 @@ def SimpleHillClimbing():
 SimpleHillClimbing()
 ```
 
-<h2>Sample Input and Output</h2>
-<h2>Sample String:</h2> Artificial Intelligence
-<h2>Output:</h2>
+<table>
+<tr>
+<td valign=top>
+
+### Input String:
+Artificial Intelligence
+</td> 
+<td>
+
+### Output:
+
 Score: 643  Solution :  8RzF:oG ]%;CPORRMe!zGvk<br>
 Score: 609  Solution :  8RzF:oG ]%;CPqRRMe!zGvk<br>
 Score: 604  Solution :  8RzF:oG ]%;CPqRRMe!zGqk<br>
@@ -99,6 +107,9 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+</td>
+</tr> 
+</table>
 
 ### Result:
 Thus the implementation of simple hill climbing algorithm was done successfully.
