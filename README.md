@@ -1,6 +1,5 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name: BHARATH.K </h3>
-<h3>Register Number: 212222110006</h3>
+
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
@@ -40,6 +39,9 @@ Feedback is provided in terms of heuristic function
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
 ## PROGRAM:
+Name: BHARATH K
+
+Register Number: 212222110006
 ```python
 import random
 import string
